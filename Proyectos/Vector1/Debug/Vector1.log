@@ -1,1 +1,6 @@
-﻿
+﻿  Source.cpp
+D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Source.cpp(21,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Source.cpp(28,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Source.cpp(34,20): warning C4018: '<': no coinciden signed/unsigned
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Vector1.vcxproj -> D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Debug\Vector1.exe
