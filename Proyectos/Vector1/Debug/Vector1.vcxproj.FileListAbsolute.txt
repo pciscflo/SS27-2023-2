@@ -1,0 +1,2 @@
+D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Debug\Vector1.vcxproj.AssemblyReference.cache
+D:\Githubs\POO-2023-2-SS27\Proyectos\Vector1\Debug\Vector1.exe
