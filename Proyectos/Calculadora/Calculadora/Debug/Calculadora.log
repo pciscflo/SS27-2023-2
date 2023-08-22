@@ -1,3 +1,5 @@
 ﻿  Source.cpp
+  .NETFramework,Version=v4.8.1.AssemblyAttributes.cpp
+  Generando código...
   Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  Calculadora.vcxproj -> D:\Githubs\POO-2023-2-SS27\Proyectos\Calculadora\Debug\Calculadora.exe
+  Calculadora.vcxproj -> D:\GithubsAcademic\C++\2023-2-SS27\Proyectos\Calculadora\Debug\Calculadora.exe

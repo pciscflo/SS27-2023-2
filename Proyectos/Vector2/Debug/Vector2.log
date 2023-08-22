@@ -1,6 +1,1 @@
-﻿  Source.cpp
-D:\Githubs\POO-2023-2-SS27\Proyectos\Vector2\administrador.h(25,21): warning C4018: '<': no coinciden signed/unsigned
-D:\Githubs\POO-2023-2-SS27\Proyectos\Vector2\administrador.h(35,14): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
-D:\Githubs\POO-2023-2-SS27\Proyectos\Vector2\Source.cpp(36,20): warning C4018: '<': no coinciden signed/unsigned
-  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  Vector2.vcxproj -> D:\Githubs\POO-2023-2-SS27\Proyectos\Vector2\Debug\Vector2.exe
+﻿
