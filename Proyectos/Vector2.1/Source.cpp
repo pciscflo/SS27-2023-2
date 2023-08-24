@@ -16,7 +16,7 @@
 */
 
 bool compararPorPrecio(Auto* auto1, Auto* auto2) {
-	return auto1->getPrecio() > auto2->getPrecio();
+	return auto1->calcularPrecioFinal() > auto2->calcularPrecioFinal();
 }
 
 int main() {
